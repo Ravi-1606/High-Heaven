@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: High-Heaven-App
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
