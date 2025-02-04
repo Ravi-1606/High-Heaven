@@ -26,7 +26,7 @@ You can explore the live version of the project here: [Deployed Link](https://hi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/high-heaven.git
+   git clone https://github.com/Ravi-1606/High-Heaven.git
 
 2. Navigate to the project folder:
     ```bash
